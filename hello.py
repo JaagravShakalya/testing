@@ -19,5 +19,5 @@ else:
    print("p1 is the winner")
 
 
-print("game is over")
+print("game is over---")
 
