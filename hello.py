@@ -18,3 +18,6 @@ if p2 > p1:
 else:
    print("p1 is the winner")
 
+
+print("game is over")
+
