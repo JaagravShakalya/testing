@@ -20,7 +20,7 @@ def game():
       print("p1 is the winner")
 
 
-    print("game is over!!!!")
+    print("game is now over, thanks for playing")
 
 def main():
    times = int(input("how many times: "))
